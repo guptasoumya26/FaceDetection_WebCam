@@ -9,7 +9,7 @@
 * Run faceRecognition.py for results
 
 ### See a demo on - 
-[Video-Link]()
+[Video-Link](https://github.com/guptasoumya26/FaceDetection/raw/master/Demo.mp4)
  ---
  ### Contributors
  Soumya Gupta <gupta.soumya26@gmail.com>
